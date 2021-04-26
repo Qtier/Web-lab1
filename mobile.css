@@ -1,0 +1,64 @@
+#frame-1 {
+
+}
+
+#frame-2 {
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: stretch;
+
+background-color: #C9F0EE;
+}
+
+h1 {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+
+color: #000000;
+margin: 10px 0px;
+}
+
+#photo {
+margin: 10px 0px;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2 {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+text-decoration-line: underline;
+
+color: #000000;
+margin: 10px 0px;
+}
+
+#skills {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+margin: 10px 0px;
+}
+
+#contacts {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+margin: 10px 0px;
+}
