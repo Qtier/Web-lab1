@@ -1,0 +1,104 @@
+#frame-1 {
+
+}
+
+h1 {
+margin-left: auto;
+margin-right: auto;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 84px;
+text-align: center;
+
+color: #000000;
+}
+
+#frame-2 {
+display: flex;
+flex-direction: row;
+align-item: flex-start;
+}
+
+#photo {
+position: static;
+width: 225px;
+height: 300px;
+left: 0px;
+top: 0px;
+
+background: url(YbpSPX_4PCM.jpg);
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 20px;
+}
+
+#frame-3 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 0 20px;
+}
+
+h2 {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 47px;
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #000000;
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+#skills {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+
+#frame-4 {
+display: flex;
+flex-direction: column;
+align-item: flex-start;
+justify-content: flex-start;
+}
+
+#contacts {
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 47px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+#frame-5 {
+
+margin-left: auto;
+margin-right: auto;
+  background-color: #C9F0EE;
+  padding: 0 20px 20px 20px;
+width: 1000px;
+}
